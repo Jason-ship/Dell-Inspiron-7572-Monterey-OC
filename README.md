@@ -45,21 +45,10 @@
 
 
 ## 更新 2022 Mac OS Monterey
-电脑型号               戴尔 Inspiron 7572 笔记本电脑
-  操作系统               Windows 10 专业版 64位（Version 21H2 / DirectX 12）
-
-  处理器                 英特尔 Core i5-8250U @ 1.60GHz 四核
-  主板                   戴尔 04JMR2（7th/8th Generation Intel Processor Family I/O - 9D4E 笔记本芯片组）
-  显卡                   NVIDIA GeForce MX150 ( 4 GB / 戴尔 )
-  内存                   16 GB ( 威刚 DDR4 2400MHz )
-  主硬盘                  PC SN520 NVMe WDC 256GB ( 256 GB / 固态硬盘 )
-  显示器                 京东方 BOE06B4 ( 15.5 英寸  )
-  声卡                   瑞昱  @ 英特尔 High Definition Audio 控制器
-  网卡                   瑞昱 RTL8168/8111/8112 Gigabit Ethernet Controller / 戴尔
-
 * 显示器亮度调节不正常
 * 博通网卡BCM4360 可正常使用
-* 无其他问题
+* SD卡卡槽暂时不能读取SD卡（待解决）
 EFI 下载 https://wwn.lanzoul.com/iLHAizijfkh
 链接:https://pan.baidu.com/s/1Q53D7lyZVgiJmt4ESDm6cg 提取码:1k7d 复制这段内容后打开百度网盘手机App，操作更方便哦
-# 注意：该EFI文件只适用于Monterey版本。
+
+# 注意：该EFI文件只适用于Monterey版本。 Opencore 0.7.0-opencore 0.7.8 
