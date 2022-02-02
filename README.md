@@ -42,3 +42,8 @@
 * CPU原生支持，变频正常
 * 显示器亮度调节正常；
 * 使用博通（Boardcom）品牌的网卡的大佬麻烦禁用'itlwm.kext'和'AirportItlwm.kext',并在'boot-args'中添加'brcmfx-country=#a brcmfx-driver=2'
+## 更新 2022 Mac OS Monterey
+* 显示器亮度调节不正常
+* 博通网卡BCM4360 可正常使用
+EFI 下载 https://wwn.lanzoul.com/iLHAizijfkh
+链接:https://pan.baidu.com/s/1Q53D7lyZVgiJmt4ESDm6cg 提取码:1k7d 复制这段内容后打开百度网盘手机App，操作更方便哦
